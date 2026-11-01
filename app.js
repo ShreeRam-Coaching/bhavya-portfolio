@@ -26,8 +26,8 @@
 
   var HOME = 'bhavyaweb.runs-on.dev';
   var PROJ = [
-    { n: 'Mittra Clinic', u: 'https://mittraclinic.vercel.app/', h: 'mittraclinic.vercel.app' },
-    { n: 'Delhi Clinic', u: 'https://delhiclinic.vercel.app/', h: 'delhiclinic.vercel.app' },
+    { n: 'Waves Gym', u: 'https://wavesfitness.vercel.app/', h: 'wavesfitness.vercel.app' },
+    { n: 'JYRAN', u: 'https://jayraneats.vercel.app/', h: 'jayraneats.vercel.app' },
     { n: 'Randhawa Clinic', u: 'https://randhawaclinic.vercel.app/', h: 'randhawaclinic.vercel.app' }
   ];
 
